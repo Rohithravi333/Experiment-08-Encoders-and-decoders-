@@ -99,7 +99,7 @@ assign d4=(a &~b&~c);
 assign d5=(a &~b&c);
 assign d6=(a&b&~c);
 assign d7=(a&b&c);
-endmodule.
+endmodule
 ```
 
 
